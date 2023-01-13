@@ -62,7 +62,7 @@ Utgitt: 6. september 2012
 Song på albumet Two av Smoke Weed Touch
 
 ## Kontakt
-Ta kontakt på e-post via asbjorn.ness@gmail.com
+Ta kontakt på e-post via [asbjorn.ness@gmail.com](mailto:asbjorn.ness@gmail.com)
 
 ## Label
 Vassleik
