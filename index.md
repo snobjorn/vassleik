@@ -27,7 +27,7 @@ Utgitt: 28. juli 2022
 * Auto-tune sux
 * N er ok
 
-[Last ned Apricots in Happiness](/media/apricots-in-happiness/)
+[Last ned Apricots in Happiness](/vassleik/media/apricots-in-happiness-2022.zip)
 
 #### Live In Computer
 Utgitt: 2008
@@ -41,7 +41,7 @@ Utgitt: 2008
 * Fylke
 * April
 
-[Last ned Live In Computer]()
+[Last ned Live In Computer](/vassleik/media/live-in-computer-2008.zip)
 
 ### EP
 #### Close Your Clothes
@@ -50,7 +50,7 @@ Utgitt: 27. juni 2010
 * Den alpine sonen
 * Student, Lillehammer, 1884
 
-[Last ned Close Your Clothes]()
+[Last ned Close Your Clothes](/vassleik/media/close-your-clothes-2010.zip)
 
 #### Cute In Space
 Utgitt: 20. mai 2009
@@ -58,18 +58,20 @@ Utgitt: 20. mai 2009
 * Bruskorken
 * I dag
 
-[Last ned Cute In Space]()
+[Last ned Cute In Space](/vassleik/media/cute-in-space-2008.zip)
 
 ### Single
 #### Heute musik
 Utgitt: 6. september 2012
 * Heute musik
 
-[Last ned Heute musik]()
+[Last ned Heute musik](/vassleik/media/heute-musik-2012.zip)
 
 ### Samarbeid
 #### Teens Recap
 Song på albumet Two av Smoke Weed Touch
+
+[Lytt til albumet på Spotify](https://open.spotify.com/album/0AU3djDHCEpzAVhjOBd0l4?si=2tBK8qO8QlaWXVDH-CdAXg)
 
 ## Kontakt
 Ta kontakt på e-post via [asbjorn.ness@gmail.com](mailto:asbjorn.ness@gmail.com)
