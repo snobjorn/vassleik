@@ -27,6 +27,8 @@ Utgitt: 28. juli 2022
 * Auto-tune sux
 * N er ok
 
+[Last ned Apricots in Happiness](/media/apricots-in-happiness/)
+
 #### Live In Computer
 Utgitt: 2008
 * August
@@ -39,6 +41,8 @@ Utgitt: 2008
 * Fylke
 * April
 
+[Last ned Live In Computer]()
+
 ### EP
 #### Close Your Clothes
 Utgitt: 27. juni 2010
@@ -46,16 +50,22 @@ Utgitt: 27. juni 2010
 * Den alpine sonen
 * Student, Lillehammer, 1884
 
+[Last ned Close Your Clothes]()
+
 #### Cute In Space
 Utgitt: 20. mai 2009
 * Dau fugl
 * Bruskorken
 * I dag
 
+[Last ned Cute In Space]()
+
 ### Single
 #### Heute musik
 Utgitt: 6. september 2012
 * Heute musik
+
+[Last ned Heute musik]()
 
 ### Samarbeid
 #### Teens Recap
