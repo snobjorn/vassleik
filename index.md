@@ -20,7 +20,7 @@ Utgitt: 28. juli 2022
 * Politifaglig disiplin
 * Stille etter stormen
 * Kohlekraftwerk
-* * Tyttebærskauen er her, Tor og Rune
+* Tyttebærskauen er her, Tor og Rune
 * Doggystyle 95
 * El Ninja
 * Vassleik forlet oss att
@@ -33,9 +33,9 @@ Utgitt: 2008
 * Komen attende
 * Rennasmørjo
 * Mozart ville ikkje surmula
-* * Siri lo som oss (i dans)
+* Siri lo som oss (i dans)
 * Rallaren
-* * Jarnstongi
+* Jarnstongi
 * Fylke
 * April
 
